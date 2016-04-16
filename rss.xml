@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid UX]]></description>
         <link>https://thegrid.ai/the-grid-ux/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 17:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 17:11:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-grid-ux/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/the-grid-ux/my-name-is-jurijs-kovzels-i-code-and-do-ux-this-website-is/index.html</link>
             <guid isPermaLink="false">0d59fcd4-ad3f-4e26-b8cf-bd58a4b7a963</guid>
             <pubDate>Sat, 16 Apr 2016 14:45:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[first, make it usable]]></title>
+            <description><![CDATA[<article><h1>first, make it usable</h1><p>I don't have any drafts, I've just created the site. How about "Create new post" button instead? Why don't just land people to drafts list page?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1af49b0c5c17b8b8f1f95f4039bcebb8c5d479e7.png"></article>]]></description>
+            <link>https://thegrid.ai/the-grid-ux/a45d16ad-fe72-4373-aac4-a6652f466e32/index.html</link>
+            <guid isPermaLink="false">a45d16ad-fe72-4373-aac4-a6652f466e32</guid>
+            <pubDate>Sat, 16 Apr 2016 17:10:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Grid affordance]]></title>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/the-grid-ux/how-to-add-a-new-post-to-you-site/index.html</link>
             <guid isPermaLink="false">aabbb9fa-d4ef-4664-a6e0-6d9105265000</guid>
             <pubDate>Sat, 16 Apr 2016 15:27:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[first, make it usable]]></title>
-            <description><![CDATA[<article><h1>first, make it usable</h1><p>I don't have any drafts, I've just created the site. How about "Create new post" button instead? Why don't just land people to drafts list page?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1af49b0c5c17b8b8f1f95f4039bcebb8c5d479e7.png"></article>]]></description>
-            <link>https://thegrid.ai/the-grid-ux/a45d16ad-fe72-4373-aac4-a6652f466e32/index.html</link>
-            <guid isPermaLink="false">a45d16ad-fe72-4373-aac4-a6652f466e32</guid>
-            <pubDate>Sat, 16 Apr 2016 15:18:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
