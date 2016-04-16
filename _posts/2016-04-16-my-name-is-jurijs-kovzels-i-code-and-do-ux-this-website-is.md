@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: "My name is Jurijs Kovzels. I code and do UX. This website is an attempt to use The Grid for good, but so far The Grid appears to my as massive AI powered clusterfuck. But since I pre-paid a year \_"
-datePublished: '2016-04-16T14:44:09.400Z'
-dateModified: '2016-04-16T14:44:02.768Z'
+description: "Hi,\_"
+datePublished: '2016-04-16T14:45:23.533Z'
+dateModified: '2016-04-16T14:44:11.846Z'
 title: ''
 author: []
 authors: []
