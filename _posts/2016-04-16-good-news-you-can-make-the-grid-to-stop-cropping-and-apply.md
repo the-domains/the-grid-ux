@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Good news, you can make The Grid to stop cropping, and applying crappy filters to your photos.\_"
-datePublished: '2016-04-16T17:04:45.553Z'
-dateModified: '2016-04-16T17:04:31.669Z'
+datePublished: '2016-04-16T17:06:28.937Z'
+dateModified: '2016-04-16T17:04:52.269Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-16-good-news-you-can-make-the-grid-to-stop-cropping-and-apply.md
